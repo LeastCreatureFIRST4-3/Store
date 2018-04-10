@@ -1,0 +1,11 @@
+c:\users\tanya\documents\visual studio 2010\Projects\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe
+c:\users\tanya\documents\visual studio 2010\Projects\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.pdb
+c:\users\tanya\documents\visual studio 2010\Projects\WpfApplication6\WpfApplication6\obj\x86\Debug\MainWindow.baml
+c:\users\tanya\documents\visual studio 2010\Projects\WpfApplication6\WpfApplication6\obj\x86\Debug\MainWindow.g.cs
+c:\users\tanya\documents\visual studio 2010\Projects\WpfApplication6\WpfApplication6\obj\x86\Debug\App.g.cs
+c:\users\tanya\documents\visual studio 2010\Projects\WpfApplication6\WpfApplication6\obj\x86\Debug\WpfApplication6_MarkupCompile.cache
+c:\users\tanya\documents\visual studio 2010\Projects\WpfApplication6\WpfApplication6\obj\x86\Debug\WpfApplication6.g.resources
+c:\users\tanya\documents\visual studio 2010\Projects\WpfApplication6\WpfApplication6\obj\x86\Debug\WpfApplication6.Properties.Resources.resources
+c:\users\tanya\documents\visual studio 2010\Projects\WpfApplication6\WpfApplication6\obj\x86\Debug\WpfApplication6.csproj.GenerateResource.Cache
+c:\users\tanya\documents\visual studio 2010\Projects\WpfApplication6\WpfApplication6\obj\x86\Debug\WpfApplication6.exe
+c:\users\tanya\documents\visual studio 2010\Projects\WpfApplication6\WpfApplication6\obj\x86\Debug\WpfApplication6.pdb
